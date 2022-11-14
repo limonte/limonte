@@ -1,5 +1,12 @@
 **Howdy 👋 Thank you for checking my GitHub page!**
 
+TL;DR 
+ - Creator and maintainer of [SweetAlert2](https://github.com/sweetalert2/sweetalert2), which is in **GitHub Top 1000 Projects**. 
+ - Top 1% StackOverflow user ([profile](https://stackoverflow.com/users/1331425/limon-monte?tab=profile)).
+ - 17+ years in webdev, 7+ years in TypeScript, 5+ years in React.
+
+---
+
 I’m a software engineer with over 17 years experience and comfortable working across the entire web stack include front-end, back-end (Node.js and PHP) and devops.
 
 Day-to-day I work primarily with JavaScript, TypeScript, React and related technologies.
