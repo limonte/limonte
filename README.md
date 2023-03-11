@@ -4,6 +4,7 @@ TL;DR
  - Creator and maintainer of [SweetAlert2](https://github.com/sweetalert2/sweetalert2), which is in **GitHub Top 1000 Projects** and in [**Google Top 200 Critical JavaScript Repos**](https://github.com/ossf/criticality_score). 
  - Top 1% StackOverflow user ([profile](https://stackoverflow.com/users/1331425/limon-monte?tab=profile)).
  - 17+ years in webdev, 7+ years in TypeScript, 5+ years in React.
+ - contact me via sweetalert2@gmail.com
 
 ---
 
