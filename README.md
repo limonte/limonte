@@ -2,9 +2,7 @@
 
 I’m a software engineer with over 17 years experience and comfortable working across the entire web stack include front-end, back-end (Node.js and PHP) and devops.
 
-Day-to-day I work primarily with TypeScript, JavaScript, React and related technologies.
-
-I also enjoy helping other developers. Through helping other developers, I’ve managed to be in the **top 1%** of Stack Overflow users ([profile](https://stackoverflow.com/users/1331425/limon-monte?tab=profile)).
+I work primarily with TypeScript, JavaScript, React and related technologies.
 
 ---
 
