@@ -1,8 +1,8 @@
 **Howdy 👋 Thank you for checking my GitHub page!**
 
-I’m a software engineer with over 17 years experience and comfortable working across the entire web stack include front-end, back-end (Node.js and PHP) and devops.
+I’m a software engineer with over 17 years of experience and comfortable working across the entire web stack including front-end, back-end (Node.js and PHP), and DevOps.
 
-I work primarily with TypeScript, JavaScript, React and related technologies.
+I work primarily with TypeScript, JavaScript, React, and related technologies. I'm doing PHP as well, please don't judge me for that.
 
 ---
 
@@ -10,7 +10,3 @@ I work primarily with TypeScript, JavaScript, React and related technologies.
  - Top 1% StackOverflow user ([profile](https://stackoverflow.com/users/1331425/limon-monte?tab=profile)).
  - 17+ years in webdev, 7+ years in TypeScript, 5+ years in React.
  - contact me via sweetalert2@gmail.com
-
----
-
-Please consider becoming my sponsor and getting my gratitude and **personal support** with SweetAlert2: https://github.com/sponsors/limonte
