@@ -2,7 +2,7 @@
 
 I’m a software engineer with over 17 years of experience and comfortable working across the entire web stack including front-end, back-end (Node.js and PHP), and DevOps.
 
-I work primarily with TypeScript, JavaScript, React, and related technologies. I'm doing PHP as well, please don't judge me for that.
+I work primarily with TypeScript, JavaScript, React, and related technologies. I'm doing PHP as well, please don't judge me for that, I'm only human.
 
 ---
 
