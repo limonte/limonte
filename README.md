@@ -8,5 +8,5 @@ I work primarily with TypeScript, JavaScript, React, Next.js, and related techno
 
  - Creator and maintainer of [SweetAlert2](https://github.com/sweetalert2/sweetalert2) (it's in [Google Top 500 Critical JavaScript Repos](https://github.com/ossf/criticality_score))
  - Top 1% StackOverflow user ([profile](https://stackoverflow.com/users/1331425/limon-monte?tab=profile))
- - 19+ years in PHP and JS, 8+ years in TypeScript, 6+ years in React
+ - 19+ years in JavaScript and PHP, 8+ years in TypeScript, 6+ years in React
  - contact me via me@limonte.dev
