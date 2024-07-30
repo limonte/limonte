@@ -1,6 +1,6 @@
 **Howdy 👋 Thank you for checking my GitHub page!**
 
-I’m a software engineer with over 19 years of experience and comfortable working across the entire web stack including frontend, backend (Node.js and PHP), maintaining databases, and DevOps.
+I’m a software engineer with over 20 years of experience and comfortable working across the entire web stack including frontend, backend (Node.js and PHP), maintaining databases, and DevOps.
 
 I work primarily with TypeScript, JavaScript, React, Next.js, and related technologies. Also very comfortable and up-to-date with PHP and Laravel.
 
